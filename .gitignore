@@ -1,0 +1,6 @@
+__pycache__/
+.venv/
+.env
+*.db
+# headline data: keep local until we decide whether to publish it
+data/
